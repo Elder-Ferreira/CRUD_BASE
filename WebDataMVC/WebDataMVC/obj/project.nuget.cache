@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SLHnTHlC/PXrTMrWjeyo8faVQRIpB4xPc5Zo5/OEUyUq15aOEZ26ZFxKUz8Mi94x0dLGurrkGR0R150JFQP3zA==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\CRUD_BASE\\WebDataMVC\\WebDataMVC\\WebDataMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
